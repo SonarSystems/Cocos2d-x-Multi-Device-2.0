@@ -1,4 +1,4 @@
-# Cocos2d-x-Multi-Device-2.0
+# Cocos2d-x Multi Device Design 2.0 Tutorial Series
 
 # Video Tutorial Links
 ------------------------
