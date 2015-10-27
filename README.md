@@ -7,4 +7,5 @@
   <li>C++ Setup - http://bit.ly/1WfjEaK</li>
   <li>JavaScript Setup - http://bit.ly/1POEVUz</li>
   <li>Background Creation - http://bit.ly/1jNKKVz</li>
+  <li>Game Item Creation - http://bit.ly/1k7gPar</li>
 </ul>
