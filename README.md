@@ -3,6 +3,6 @@
 # Video Tutorial Links
 ------------------------
 <ul>
-  <i>lin</i>
-  <i>lin</i>
+  <li>lin</li>
+  <li>lin</li>
 </ul>
