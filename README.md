@@ -8,4 +8,5 @@
   <li>JavaScript Setup - http://bit.ly/1POEVUz</li>
   <li>Background Creation - http://bit.ly/1jNKKVz</li>
   <li>Game Item Creation - http://bit.ly/1k7gPar</li>
+  <li>C++ Scene Creation - http://bit.ly/1ilbzyw</li>
 </ul>
