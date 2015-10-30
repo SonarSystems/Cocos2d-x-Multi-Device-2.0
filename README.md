@@ -9,4 +9,5 @@
   <li>Background Creation - http://bit.ly/1jNKKVz</li>
   <li>Game Item Creation - http://bit.ly/1k7gPar</li>
   <li>C++ Scene Creation - http://bit.ly/1ilbzyw</li>
+  <li>JavaScript Scene Creation - http://bit.ly/1kg4cKf</li>
 </ul>
